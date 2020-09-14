@@ -1,0 +1,1 @@
+echo "test string" | grep "test"
